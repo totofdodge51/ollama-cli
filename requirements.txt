@@ -1,0 +1,5 @@
+requests
+prompt_toolkit
+rich
+beautifulsoup4
+pygments
