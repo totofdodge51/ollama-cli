@@ -20,6 +20,8 @@ Ollama-CLI est un assistant de code interactif en ligne de commande, puissant et
 - Le serveur Ollama doit être installé et en cours d'exécution. ([Voir le site d'Ollama](https://ollama.com/))
 - Au moins un modèle installé (ex: `ollama pull llama3`)
 
+> **Note sur le Modèle :** Le script a été principalement développé et testé avec `Qwen2.5-coder:14B`. Il est fortement recommandé d'utiliser ce modèle pour obtenir les meilleurs résultats, notamment pour la génération de code et l'utilisation des outils.
+
 ### Installation
 
 1.  Clonez ce dépôt.
